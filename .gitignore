@@ -1,5 +1,8 @@
 GTFS-IN/*
+!GTFS-IN/.gitkeep
+
 GTFS-OUT/*
+!GTFS-OUT/.gitkeep
 
 venv/
 
