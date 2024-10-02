@@ -2,3 +2,5 @@ GTFS-IN/*
 GTFS-OUT/*
 
 venv/
+
+src/__pycache__
